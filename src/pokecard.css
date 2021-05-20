@@ -1,0 +1,24 @@
+.PokeCard-list {
+  list-style-type: none;
+  font-family: sans-serif;
+  padding: 0px;
+  text-align: center;
+}
+
+.PokeCard-name {
+  color: blue;
+  font-size: large;
+}
+
+.PokeCard-container {
+  background-color: lightgrey;
+  height: 250px;
+  width: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+  border-radius: 20px;
+  font-family: sans-serif;
+}
